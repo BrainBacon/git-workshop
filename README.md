@@ -1,10 +1,8 @@
 # Outline
 
 1. Installation
-   * OSX installation:
-     - Standard installation [`http://code.google.com/p/git-osx-installer`](http://code.google.com/p/git-osx-installer)
-     - With Macports: `sudo port install git-core +svn +doc +bash_completion +gitweb`
-   * Windows installation: [`http://msysgit.github.com/`](http://msysgit.github.com/)
+   * [`http://git-scm.com/downloads`](http://git-scm.com/downloads)
+   * Windows installation: Accept all defaults
 2. Setup
    * Identity 
      - `$ git config --global user.name "Brian Jesse"`
