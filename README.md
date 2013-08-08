@@ -70,4 +70,6 @@
       - [`http://gitimmersion.com/lab_01.html`](http://gitimmersion.com/lab_01.html)
     * Check out the presentation
       - [`http://brian-jesse.com/gittalk`](http://brian-jesse.com/gittalk)
+    * Git Branching Model
+      - [`http://nvie.com/posts/a-successful-git-branching-model/`](http://nvie.com/posts/a-successful-git-branching-model/)
 
